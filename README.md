@@ -1,7 +1,7 @@
 # ParOppR
 Code to estimate mutational signatures from mutational counts data of cancer patients with the following extensions: (a) incorporating opportunities to the analysis, (b) allowing for extended sequence contexts, (c) using the Negative Binomial model, and (d) parametrizing the signatures.
 
-The data and codes here have been used to create the results seen in the paper 'Integrating opportunities and parametrized signatures for improved mutational processes estimation in extended sequence contexts' by Ragnhild Laursen\*, Marta Pelizzola\*, Lasse Marretty and Asger Hobolth.
+The data and codes here have been used to create the results seen in the paper 'Integrating opportunities and parametrized signatures for improved mutational processes estimation in extended sequence contexts' by Ragnhild Laursen\*, Marta Pelizzola\*, Lasse Marretty and Asger Hobolth (\* these authors contributed equally).
 
 The code files ParOppR_mainFunction.R and NegBinNMF_par_opp.cpp are the essential code used to run negative binomial non-negative matrix factorization with parametrization of the signatures and inclusion of mutational opportunities with various different mutational context sizes. 
 
